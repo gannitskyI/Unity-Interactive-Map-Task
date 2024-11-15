@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|f:\\git\\unity-interactive-map-task\\my project\\assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|F:\\GIT\\Unity-Interactive-Map-Task\\My project\\assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|F:\\GIT\\Unity-Interactive-Map-Task\\My project\\assets\\scripts\\pinfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|F:\\GIT\\Unity-Interactive-Map-Task\\My project\\assets\\scripts\\datascripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datascripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|F:\\GIT\\Unity-Interactive-Map-Task\\My project\\assets\\scripts\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|f:\\git\\unity-interactive-map-task\\my project\\assets\\scripts\\pinscripts\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinscripts\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|F:\\GIT\\Unity-Interactive-Map-Task\\My project\\assets\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|f:\\git\\unity-interactive-map-task\\my project\\assets\\scripts\\pinscripts\\pininfopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinscripts\\pininfopanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +26,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameData.cs",
-              "DocumentMoniker": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\GameData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameData.cs",
-              "ToolTip": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\GameData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Pin.cs",
+              "DocumentMoniker": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\PinScripts\\Pin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PinScripts\\Pin.cs",
+              "ToolTip": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\PinScripts\\Pin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PinScripts\\Pin.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:50:16.051Z",
+              "WhenOpened": "2024-11-15T18:27:03.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PinInfoPanel.cs",
+              "DocumentMoniker": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\PinScripts\\PinInfoPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PinScripts\\PinInfoPanel.cs",
+              "ToolTip": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\PinScripts\\PinInfoPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PinScripts\\PinInfoPanel.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:25:53.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PinFactory.cs",
-              "DocumentMoniker": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\PinFactory.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PinFactory.cs",
-              "ToolTip": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\PinFactory.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PinFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "GameData.cs",
+              "DocumentMoniker": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\DataScripts\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataScripts\\GameData.cs",
+              "ToolTip": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\DataScripts\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataScripts\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T13:21:01.669Z",
+              "WhenOpened": "2024-11-15T18:23:44.349Z",
               "EditorCaption": ""
             },
             {
@@ -62,22 +75,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MapController.cs",
               "ToolTip": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\MapController.cs",
               "RelativeToolTip": "Assets\\Scripts\\MapController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwGcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T12:52:55.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pin.cs",
-              "DocumentMoniker": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\Pin.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Pin.cs",
-              "ToolTip": "F:\\GIT\\Unity-Interactive-Map-Task\\My project\\Assets\\Scripts\\Pin.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Pin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T12:51:44.877Z",
               "EditorCaption": ""
             }
           ]
